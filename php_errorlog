@@ -1,0 +1,4 @@
+[14-Aug-2025 13:22:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa110.millioncoders.net/public_html/RENTACAR/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/RENTACAR/index.php on line 134
